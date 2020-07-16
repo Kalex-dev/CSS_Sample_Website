@@ -1,2 +1,3 @@
 # CSS_Sample_Website
- Tokyo Sample Site
+  I decided to make a simple stylized design 
+  using different elements of CSS.
